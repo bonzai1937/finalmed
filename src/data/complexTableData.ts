@@ -11,7 +11,7 @@ interface RowsProps {
 export const rows: RowsProps[] = [
   {
     id: '#1001',
-    name: 'Horizon UI PRO',
+    name: 'MSR',
     status: 'Approved',
     date: '18 Apr 2024',
     progress: 70,
@@ -20,7 +20,7 @@ export const rows: RowsProps[] = [
   },
   {
     id: '#1002',
-    name: 'Horizon UI Free',
+    name: 'MSR',
     status: 'Pending',
     date: '26 Apr 2024',
     progress: 40,
@@ -29,7 +29,7 @@ export const rows: RowsProps[] = [
   },
   {
     id: '#1003',
-    name: 'Marketplace',
+    name: 'MSR',
     status: 'Pending',
     date: '20 May 2024',
     progress: 90,
@@ -38,7 +38,7 @@ export const rows: RowsProps[] = [
   },
   {
     id: '#1004',
-    name: 'Weekly Updates',
+    name: 'MSR',
     status: 'Approved',
     date: '25 May 2024',
     progress: 60,
@@ -47,7 +47,7 @@ export const rows: RowsProps[] = [
   },
   {
     id: '#1005',
-    name: 'Venus 3D Asset',
+    name: 'MSR',
     status: 'Approved',
     date: '28 May 2024',
     progress: 80,
@@ -56,7 +56,7 @@ export const rows: RowsProps[] = [
   },
   {
     id: '#1006',
-    name: 'Admin Dashboard',
+    name: 'MSR',
     status: 'Approved',
     date: '17 Jun 2024',
     progress: 95,
@@ -65,7 +65,7 @@ export const rows: RowsProps[] = [
   },
   {
     id: '#1007',
-    name: 'Material-UI Kit',
+    name: 'MSR',
     status: 'Error',
     date: '22 Jun 2024',
     progress: 50,
@@ -74,7 +74,7 @@ export const rows: RowsProps[] = [
   },
   {
     id: '#1008',
-    name: 'Figma Components',
+    name: 'MSR',
     status: 'Disable',
     date: '08 Jul 2024',
     progress: 65,
@@ -83,7 +83,7 @@ export const rows: RowsProps[] = [
   },
   {
     id: '#1009',
-    name: 'React Starter Kit',
+    name: 'MSR',
     status: 'Approved',
     date: '28 Jul 2024',
     progress: 85,
@@ -92,7 +92,7 @@ export const rows: RowsProps[] = [
   },
   {
     id: '#1010',
-    name: 'SaaS Management',
+    name: 'MSR',
     status: 'Disable',
     date: '05 Aug 2024',
     progress: 55,
@@ -101,7 +101,7 @@ export const rows: RowsProps[] = [
   },
   {
     id: '#1011',
-    name: 'Admin Template PRO',
+    name: 'MSR',
     status: 'Approved',
     date: '22 Aug 2024',
     progress: 75,
@@ -110,7 +110,7 @@ export const rows: RowsProps[] = [
   },
   {
     id: '#1012',
-    name: 'Ecommerce Dashboard',
+    name: 'MSR',
     status: 'Approved',
     date: '25 Aug 2024',
     progress: 85,

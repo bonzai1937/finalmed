@@ -64,7 +64,7 @@ export const NFTData: NFTProps[] = [
   },
   {
     id: 4,
-    title: 'Swipe Circles',
+    title: 'Asthama',
     artist: 'Peter Will',
     image: CardImg4,
     price: '21/11/23',
@@ -76,7 +76,7 @@ export const NFTData: NFTProps[] = [
   },
   {
     id: 5,
-    title: 'Mesh Gradients',
+    title: 'Hypertension',
     artist: 'Will Smith',
     image: CardImg5,
     price: '12/06/23',

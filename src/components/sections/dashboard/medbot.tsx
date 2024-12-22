@@ -10,7 +10,7 @@ import {
   IconButton,
 } from '@mui/material';
 const MedBot = () => {
-  const apiKey = 'api-key'; // Ensure to replace this with a safer method like .env
+  const apiKey = 'AIzaSyATdjV2agdgNFoaaSPHtRAkN5zLBMdxv-g'; // Ensure to replace this with a safer method like .env
   const url = `https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent?key=${apiKey}`;
   const [userQuery, setUserQuery] = useState('');
   const [botResponse, setBotResponse] = useState('');

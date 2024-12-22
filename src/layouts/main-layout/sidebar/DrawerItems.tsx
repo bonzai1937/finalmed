@@ -38,7 +38,7 @@ const DrawerItems = () => {
             fontFamily={fontFamily.poppins}
             color={isDarkMode ? 'white' : 'inherit'}
           >
-            Horizon
+            MEDICA
           </Typography>
         </ButtonBase>
       </Stack>
